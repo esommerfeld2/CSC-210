@@ -1,0 +1,21 @@
+ Is it a mammal?
+Y Does it have hooves?
+N Is it a reptile?
+YY Does it give milk?
+YN Is it a carnivore?
+NY Crocodile
+NN Does it have a beak?
+YYY Cow
+YYN Horse
+YNY Is it in the dog family?
+YNN Mouse
+NNY does it live in the ocean
+NNN Does your animal have a strong bite?
+YNYY Dog
+YNYN Cat
+NNYY octopus
+NNYN Bird
+NNNY Hippo
+NNNN does it live in the ocean?
+NNNNY manta ray
+NNNNN Mosquito

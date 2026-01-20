@@ -1,0 +1,50 @@
+# CSC 212 Data Structures
+## Homework 4 Checklist
+
+Listed below are various aspects of the assignment.  When you turn in
+your work, please indicate the status of each item
+
+- YES: indicates that the item is fully complete
+- NO: indicates that the item is not attempted
+- PART: indicates that the item is attempted but not fully complete
+
+## Assignment Points:
+
+YES 1 pt: Maze class implements DisplayableMaze interface
+
+YES 2 pts: `solve` method correctly determines if solution exists
+
+YES 2 pts: `solve` method uses recursion
+
+YES 1 pts: `isExplorable` correctly identifies explorable locations
+
+YES 1 pts: recursive style is simple and direct
+
+YES 1 pts: Encodes maze contained in a text file
+
+YES 1 pts: ShortestPath implements Dijkstra's algorithm to find the shortest path
+
+YES 1 pts: Secondary storage for ShortestPath uses well-reasoned data structures
+
+
+## General Items:
+
+YES 4 pts: Program compiles without errors or warnings
+
+YES 2 pts: Executes fully & consistently without crashing (exception/freeze)
+
+YES 2 pt: Complies with style guidelines (missing items 1 pt each):
+
+      YES Classes & class members all have Javadoc header comments
+
+      YES Clear and consistent indentation of bracketed sections
+
+      YES Adheres to Java conventions on naming & capitalization
+
+      YES Methods & variables all have clear and accurate names
+
+      YES Methods avoid confusing side effects
+
+YES 1 pt: All required files included with submission & named correctly (including completed checklist file)
+
+YES 1 pt: readme.md contains reflection on the assignment
